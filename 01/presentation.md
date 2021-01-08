@@ -135,3 +135,8 @@ Fangt klein an, testet viel und erweitert dann.
 Senior Entwickler machen auch gerne Fehler. Man sollte sich ruhig trauen, Dinge anzusprechen, die einem komisch vorkommen.
 
 ---
+
+## Podcast 1
+
+(CRE 90: Java)[https://cre.fm/cre090-java]
+(CRE 146: Javscript)[https://cre.fm/cre146-javascript]
