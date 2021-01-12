@@ -94,7 +94,7 @@
 
 - Code != Develop
 - RTFM
-- "Code MonkeyA
+- "Code Monkey"
 
 ---
 
