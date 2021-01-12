@@ -138,5 +138,5 @@ Senior Entwickler machen auch gerne Fehler. Man sollte sich ruhig trauen, Dinge 
 
 ## Podcast
 
-[CRE 90: Java](https://cre.fm/cre090-java)
-[CRE 146: Javscript](https://cre.fm/cre146-javascript)
+- [CRE 90: Java](https://cre.fm/cre090-java)
+- [CRE 146: Javscript](https://cre.fm/cre146-javascript)
