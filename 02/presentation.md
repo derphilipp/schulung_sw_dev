@@ -1,4 +1,4 @@
-# Software Entwicklung
+# software development
 
 ---
 
@@ -11,19 +11,19 @@
 
 ---
 
-## Pro block programming
+## pro block programming
 
-- Easily written
-- Easily read
-- Can be converted to code
+- easily written
+- easily read
+- can be converted to code
 
 ---
 
-## Cons block programming
+## cons block programming
 
-- Extremely verbosive
-- Becomes convoluted fast
-- Limited
+- extremely verbosive
+- becomes convoluted fast
+- limited
   - complexity
   - functionality
   - features
@@ -32,7 +32,7 @@
 
 ## looking into it 1
 
-- Scratch: Go to [scratch.mit.edu/pro](https://scratch.mit.edu/projects/editor/) and explore the block editor
+- scratch: go to [scratch.mit.edu/pro](https://scratch.mit.edu/projects/editor/) and explore the block editor
 
 
 ---
